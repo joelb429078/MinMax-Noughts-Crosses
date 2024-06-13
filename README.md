@@ -33,20 +33,7 @@ During the search, if the minimiser's current value is less than or equal to alp
 - **Human Player**: The human player is prompted to enter their move (1-9) when it is their turn.
 - **Computer Player**: The computer player automatically makes the optimal move using the MinMax algorithm with alpha-beta pruning.
 
-## Example Output
-   |   |   
- 1 | 2 | 3 
-   |   |   
------------
-   |   |   
- 4 | 5 | 6 
-   |   |   
------------
-   |   |   
- 7 | 8 | 9 
-   |   |
-
-Human, enter your move (1-9): _
-
+## License
+This project is licensed under the MIT License.
 
 
