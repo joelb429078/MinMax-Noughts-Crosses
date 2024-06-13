@@ -2,6 +2,9 @@
 
 A simple Python Noughts & Crosses game that utilises the MinMax algorithm. Alpha-beta pruning has also been implemented to make the AI player work more efficiently.
 
+![Robot Playing Noughts & Crosses](https://github.com/joelb429078/MinMax-Noughts-Crosses/assets/160978621/2fb72009-6441-435d-9bbe-cb81115eed04)
+
+
 ## Features
 
 - **MinMax Algorithm**: Implements the MinMax algorithm to determine the optimal move for the AI.
